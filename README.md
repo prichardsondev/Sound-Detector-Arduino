@@ -3,7 +3,7 @@
 ---
 
 <p float="left">
-  <img src="./img/arduino-sound.jpg" width="400" /> 
+  <img src="./img/arduino-sound.png" width="600" /> 
 </p>
 
 ---
